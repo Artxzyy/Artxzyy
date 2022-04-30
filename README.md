@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Artxzyy
-- 👀 I’m interested in programming in general, but mainly web development.
-- 🌱 I’m currently learning C language, HTML, CSS, Javascript and some other languages.
-- 💞️ I’m looking to collaborate on anything that could help to learn more about programming, be it front or back-end.
+- 👀 I’m interested in back-end programming for CLI and GUI
+- 🌱 I’m currently learning C, python and Java
+- 💞️ I’m looking to collaborate on anything above
 - 📫 How to reach me ...
 
 <!---
